@@ -1,8 +1,8 @@
 ### Olá! eu sou o Rayone 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/rayone-freire-b21a37253)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rayone-freire-b21a37253)
 
-[![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](twitter.com/freire_rayone)
+[![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://twitter.com/freire_rayone)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rayonefreire)
 
